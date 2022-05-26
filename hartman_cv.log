@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.9.18)  30 MAR 2022 09:39
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.9.18)  26 MAY 2022 09:48
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -394,35 +394,39 @@ Overfull \hbox (6.0pt too wide) in paragraph at lines 337--362
  []
 
 LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 4
-08.
+10.
 (/usr/local/texlive/2021/texmf-dist/tex/latex/psnfss/ts1ptm.fd
 File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
 ) [1
 
 {/usr/local/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
 
-Package hyperref Warning: Suppressing link with empty target on input line 497.
+Package hyperref Warning: Suppressing link with empty target on input line 486.
+
+
+
+Package hyperref Warning: Suppressing link with empty target on input line 508.
 
 
 [2]
 
-Package hyperref Warning: Suppressing link with empty target on input line 521.
+Package hyperref Warning: Suppressing link with empty target on input line 532.
 
 
 [3]
-Overfull \hbox (6.18665pt too wide) in paragraph at lines 615--628
+Overfull \hbox (6.18665pt too wide) in paragraph at lines 626--639
 []\T1/ptm/m/n/12 Bentall, R., Lloyd, A., Ben-nett, K., McKay, R., Ma-son, L., M
 ur-phy, J., McBride,
  []
 
 [4] [5] [6]
-Overfull \hbox (1.49428pt too wide) in paragraph at lines 856--858
+Overfull \hbox (1.49428pt too wide) in paragraph at lines 869--871
 []\T1/ptm/m/n/12 Levita, L., Gib-son Miller, J., Hart-man, T. K., Mur-phy, J., 
 Shevlin, M., McBride,
  []
 
 
-Overfull \hbox (1.49428pt too wide) in paragraph at lines 860--862
+Overfull \hbox (1.49428pt too wide) in paragraph at lines 873--875
 []\T1/ptm/m/n/12 Levita, L., Gib-son Miller, J., Hart-man, T. K., Mur-phy, J., 
 Shevlin, M., McBride,
  []
@@ -430,94 +434,94 @@ Shevlin, M., McBride,
 [7] [8]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\\' on input line 994.
+(hyperref)                removing `\\' on input line 1004.
 
 
-Overfull \hbox (6.03004pt too wide) in paragraph at lines 1004--1006
+Overfull \hbox (6.03004pt too wide) in paragraph at lines 1014--1016
 []\T1/ptm/m/n/12 ``Data trust project,'' funded by the BBC. (2019). Co[]In-ves-
 ti-ga-tor with He-len Kennedy
  []
 
 [9]
-Overfull \hbox (7.26517pt too wide) in paragraph at lines 1065--1067
+Overfull \hbox (7.26517pt too wide) in paragraph at lines 1075--1077
 []\T1/ptm/m/n/12 ``McDonald's Mc-Cafe clus-ter anal-y-sis & dis-crete choice ex
 -per-i-ments'' (2017), \T1/ptm/b/n/12 ¿7,800\T1/ptm/m/n/12 . 
  []
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\\' on input line 1086.
+(hyperref)                removing `\\' on input line 1096.
 
 
-Overfull \hbox (9.32956pt too wide) in paragraph at lines 1102--1104
+Overfull \hbox (9.32956pt too wide) in paragraph at lines 1112--1114
 []\T1/ptm/m/n/12 Full Grad-u-ate As-sis-tantship and Tu-ition Schol-ar-ship, St
 ony Brook Uni-ver-sity. \T1/ptm/b/n/12 Award:
  []
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\\' on input line 1147.
+(hyperref)                removing `\\' on input line 1157.
 
 [10]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\\' on input line 1222.
+(hyperref)                removing `\\' on input line 1232.
 
 [11]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\\' on input line 1254.
+(hyperref)                removing `\\' on input line 1264.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\\' on input line 1254.
+(hyperref)                removing `\\' on input line 1264.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\\' on input line 1286.
+(hyperref)                removing `\\' on input line 1296.
 
 
-Overfull \hbox (20.90714pt too wide) in alignment at lines 1287--1295
+Overfull \hbox (20.90714pt too wide) in alignment at lines 1297--1305
 [] [] 
  []
 
 
-Overfull \hbox (17.77466pt too wide) in alignment at lines 1297--1322
+Overfull \hbox (17.77466pt too wide) in alignment at lines 1307--1332
 [] [] 
  []
 
 
-Overfull \hbox (7.67058pt too wide) in alignment at lines 1324--1358
+Overfull \hbox (7.67058pt too wide) in alignment at lines 1334--1368
 [] [] 
  []
 
 [12]
-Overfull \hbox (47.99123pt too wide) in alignment at lines 1361--1403
+Overfull \hbox (47.99123pt too wide) in alignment at lines 1371--1413
 [] [] 
  []
 
 
-Overfull \hbox (47.99123pt too wide) in alignment at lines 1403--1428
+Overfull \hbox (47.99123pt too wide) in alignment at lines 1413--1438
 [] [] 
  []
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\\' on input line 1443.
+(hyperref)                removing `\\' on input line 1453.
 
 [13]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\\' on input line 1483.
+(hyperref)                removing `\\' on input line 1493.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\\' on input line 1483.
+(hyperref)                removing `\\' on input line 1493.
 
 [14]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\\' on input line 1616.
+(hyperref)                removing `\\' on input line 1626.
 
 
 AED: lastpage setting LastPage
@@ -526,8 +530,8 @@ Package rerunfilecheck Info: File `hartman_cv.out' has not changed.
 (rerunfilecheck)             Checksum: 97AD5532E2422CE641CF1EB6AB800771;2649.
  ) 
 Here is how much of TeX's memory you used:
- 9192 strings out of 478994
- 134557 string characters out of 5858184
+ 9193 strings out of 478994
+ 134564 string characters out of 5858184
  458208 words of memory out of 5000000
  26443 multiletter control sequences out of 15000+600000
  430850 words of font info for 53 fonts, out of 8000000 for 9000
@@ -537,10 +541,10 @@ Here is how much of TeX's memory you used:
 exlive/2021/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/202
 1/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2021/texmf-di
 st/fonts/type1/urw/times/utmri8a.pfb>
-Output written on hartman_cv.pdf (15 pages, 105665 bytes).
+Output written on hartman_cv.pdf (15 pages, 106493 bytes).
 PDF statistics:
- 495 PDF objects out of 1000 (max. 8388607)
- 470 compressed objects within 5 object streams
- 116 named destinations out of 1000 (max. 500000)
+ 499 PDF objects out of 1000 (max. 8388607)
+ 474 compressed objects within 5 object streams
+ 117 named destinations out of 1000 (max. 500000)
  161 words of extra memory for PDF output out of 10000 (max. 10000000)
 
