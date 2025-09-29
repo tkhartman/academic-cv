@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.9.18)  29 SEP 2025 13:35
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.9.18)  29 SEP 2025 13:41
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -393,11 +393,6 @@ Overfull \hbox (6.0pt too wide) in paragraph at lines 337--362
 [][] 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 386--387
-
- []
-
 LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 4
 17.
 (/usr/local/texlive/2021/texmf-dist/tex/latex/psnfss/ts1ptm.fd
@@ -518,10 +513,10 @@ Here is how much of TeX's memory you used:
 exlive/2021/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/202
 1/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2021/texmf-di
 st/fonts/type1/urw/times/utmri8a.pfb>
-Output written on hartman_cv.pdf (17 pages, 110360 bytes).
+Output written on hartman_cv.pdf (17 pages, 110169 bytes).
 PDF statistics:
- 555 PDF objects out of 1000 (max. 8388607)
- 527 compressed objects within 6 object streams
+ 553 PDF objects out of 1000 (max. 8388607)
+ 525 compressed objects within 6 object streams
  129 named destinations out of 1000 (max. 500000)
  137 words of extra memory for PDF output out of 10000 (max. 10000000)
 
